@@ -1,38 +1,74 @@
-# Uber-clone
 
-#Features
+#  Uber-clone
 
-Cross platform (Web, iOS, Android)
-Pick origin and destination
-Pick ride type (Uber Moto, Uber Auto, UberX , Uber LUX )
-Show fare and travel distance
-Show travel time
+A brief description of what this project does and who it's for
 
-#Made With
 
-React Native
-TailwindCSS
-Redux
-React native elements
-React navigation
-React native maps
+## Features
 
-#APIs
+- Cross platform (Web, iOS, Android)
+- Pick origin and destination
+- Pick ride type (Uber Moto, Uber Auto, UberX , Uber LUX )
+- Show fare and travel distance
+- Show travel time
 
-Google Places
-Google Directions
-Google Distance Matrix
 
-#Building
+## Made With
 
-In order to build this you must have git installed. Paste the following command in a directory of your choice. Alternatively you can download the code as a .zip file and extract it.
-git clone https://github.com/JesseKartabani/Uber-clone.git
-cd uber-clone
-yarn install
+- React Native
+- TailwindCSS
+- Redux
+- React native elements
+- React navigation
+- React native maps
+## APIs
 
-To start a development enviroment use the following command.
-yarn start
+- Google Places
+- Google Directions
+- Google Distance Matrix
+## Installation
 
-If you want to add your own API key do so by creating a .env file inside of the uber-clone folder.
+In order to build this you must have git installed. Paste the following command in a directory of your choice. Alternatively you can download the code as a .zip file and extract it....
+
+
+
+Clone the project:
+
+```bash
+  git clone https://github.com/JesseKartabani/Uber-clone.git
+```
+
+Go to the project directory:
+
+```bash
+  cd uber-clone
+```
+
+Install dependencies:
+
+```bash
+  yarn install
+```
+
+Start the server:
+
+```bash
+  yarn run start
+```
+    
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file
+
 // Inside .env file
-GOOGLE_MAPS_APIKEY=yourKeyGoesHere
+
+`GOOGLE_MAPS_APIKEY=yourKeyGoesHere`
+
+
+
+## Tech Stack
+
+**Client:** React, Redux, TailwindCSS
+
+**Server:** Node, Express
+
