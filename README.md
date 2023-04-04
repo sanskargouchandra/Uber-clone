@@ -4,6 +4,10 @@
 A brief description of what this project does and who it's for
 
 
+## Screenshots
+
+<img src="https://raw.githubusercontent.com/emmanuelchucks/react-native-uber-clone/main/assets/screenshots/Screenshot_1634302767.jpg" alt="Screen to pick an origin" width="240px"/> <img src="https://raw.githubusercontent.com/emmanuelchucks/react-native-uber-clone/main/assets/screenshots/Screenshot_1634302842.jpg" alt="Screen to pick a destination" width="240px"/> 
+
 ## Features
 
 - Cross platform (Web, iOS, Android)
